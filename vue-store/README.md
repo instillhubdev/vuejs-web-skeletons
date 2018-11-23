@@ -1,6 +1,6 @@
-# onlinestore
+# VueStore
 
-> A Vue.js project
+> A Vue.js project uses Vuetify for UI, Firebase for Authentication and Authorization Backend
 
 ## Build Setup
 
@@ -19,3 +19,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Team 
+InstillHub
